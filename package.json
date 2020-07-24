@@ -1,0 +1,11 @@
+{
+  "name": "whatever",
+  "version": "1.0.0",
+  "description": "How you like that",
+  "main": "index.js",
+  "author": "Black Pink",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
